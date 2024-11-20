@@ -1,0 +1,119 @@
+Date,Country,Status,AQI Value
+21/07/2022,Mexico,Moderate,92
+21/07/2022,Mexico,Unhealthy for Sensitive Groups,109
+22/07/2022,Mexico,Unhealthy for Sensitive Groups,108
+22/07/2022,Mexico,Moderate,82
+22/07/2022,Mexico,Unhealthy for Sensitive Groups,109
+23/07/2022,Mexico,Moderate,77
+23/07/2022,Mexico,Moderate,92
+24/07/2022,Mexico,Moderate,82
+25/07/2022,Mexico,Moderate,81
+26/07/2022,Mexico,Moderate,62
+26/07/2022,Mexico,Moderate,77
+27/07/2022,Mexico,Moderate,81
+28/07/2022,Mexico,Moderate,95
+29/07/2022,Mexico,Moderate,90
+30/07/2022,Mexico,Moderate,93
+31/07/2022,Mexico,Moderate,83
+01/08/2022,Mexico,Moderate,80
+02/08/2022,Mexico,Moderate,95
+03/08/2022,Mexico,Moderate,91
+04/08/2022,Mexico,Unhealthy for Sensitive Groups,101
+05/08/2022,Mexico,Unhealthy for Sensitive Groups,104
+06/08/2022,Mexico,Moderate,99
+07/08/2022,Mexico,Moderate,81
+08/08/2022,Mexico,Moderate,84
+09/08/2022,Mexico,Moderate,92
+10/08/2022,Mexico,Moderate,88
+11/08/2022,Mexico,Moderate,84
+12/08/2022,Mexico,Moderate,83
+13/08/2022,Mexico,Moderate,95
+14/08/2022,Mexico,Moderate,72
+15/08/2022,Mexico,Moderate,94
+16/08/2022,Mexico,Moderate,84
+17/08/2022,Mexico,Moderate,89
+18/08/2022,Mexico,Moderate,84
+19/08/2022,Mexico,Unhealthy for Sensitive Groups,102
+20/08/2022,Mexico,Moderate,77
+21/08/2022,Mexico,Moderate,87
+22/08/2022,Mexico,Moderate,92
+23/08/2022,Mexico,Moderate,85
+23/08/2022,Mexico,Moderate,75
+24/08/2022,Mexico,Moderate,99
+25/08/2022,Mexico,Moderate,88
+26/08/2022,Mexico,Moderate,91
+27/08/2022,Mexico,Unhealthy for Sensitive Groups,116
+28/08/2022,Mexico,Moderate,85
+29/08/2022,Mexico,Moderate,81
+30/08/2022,Mexico,Moderate,84
+31/08/2022,Mexico,Moderate,80
+01/09/2022,Mexico,Moderate,82
+02/09/2022,Mexico,Moderate,69
+03/09/2022,Mexico,Moderate,70
+04/09/2022,Mexico,Moderate,61
+05/09/2022,Mexico,Moderate,66
+06/09/2022,Mexico,Moderate,70
+07/09/2022,Mexico,Moderate,72
+08/09/2022,Mexico,Moderate,83
+09/09/2022,Mexico,Unhealthy for Sensitive Groups,103
+10/09/2022,Mexico,Moderate,94
+11/09/2022,Mexico,Moderate,76
+12/09/2022,Mexico,Moderate,82
+13/09/2022,Mexico,Moderate,89
+14/09/2022,Mexico,Moderate,90
+15/09/2022,Mexico,Moderate,75
+16/09/2022,Mexico,Moderate,67
+17/09/2022,Mexico,Moderate,55
+18/09/2022,Mexico,Moderate,64
+19/09/2022,Mexico,Moderate,60
+20/09/2022,Mexico,Moderate,71
+21/09/2022,Mexico,Moderate,64
+22/09/2022,Mexico,Moderate,79
+22/09/2022,Mexico,Moderate,91
+12/01/2023,Mexico,Unhealthy,162
+30/03/2023,Mexico,Unhealthy,156
+06/04/2023,Mexico,Unhealthy for Sensitive Groups,130
+13/04/2023,Mexico,Unhealthy for Sensitive Groups,127
+20/04/2023,Mexico,Unhealthy for Sensitive Groups,131
+27/04/2023,Mexico,Unhealthy for Sensitive Groups,150
+04/05/2023,Mexico,Unhealthy,161
+11/05/2023,Mexico,Unhealthy for Sensitive Groups,142
+18/05/2023,Mexico,Unhealthy for Sensitive Groups,111
+25/05/2023,Mexico,Unhealthy for Sensitive Groups,121
+01/06/2023,Mexico,Unhealthy for Sensitive Groups,123
+08/06/2023,Mexico,Unhealthy for Sensitive Groups,124
+15/06/2023,Mexico,Unhealthy for Sensitive Groups,132
+22/06/2023,Mexico,Unhealthy for Sensitive Groups,132
+29/06/2023,Mexico,Unhealthy for Sensitive Groups,107
+06/07/2023,Mexico,Unhealthy for Sensitive Groups,120
+13/07/2023,Mexico,Moderate,80
+20/07/2023,Mexico,Moderate,86
+27/07/2023,Mexico,Moderate,81
+03/08/2023,Mexico,Very Unhealthy,202
+10/08/2023,Mexico,Unhealthy for Sensitive Groups,103
+10/08/2023,Mexico,Very Unhealthy,211
+06/06/2024,Mexico,Unhealthy for Sensitive Groups,147
+06/06/2024,Mexico,Unhealthy for Sensitive Groups,147
+13/06/2024,Mexico,Moderate,97
+20/06/2024,Mexico,Unhealthy for Sensitive Groups,134
+27/06/2024,Mexico,Moderate,93
+04/07/2024,Mexico,Moderate,75
+11/07/2024,Mexico,Moderate,100
+18/07/2024,Mexico,Unhealthy for Sensitive Groups,125
+25/07/2024,Mexico,Unhealthy for Sensitive Groups,112
+01/08/2024,Mexico,Unhealthy for Sensitive Groups,101
+08/08/2024,Mexico,Unhealthy for Sensitive Groups,102
+15/08/2024,Mexico,Moderate,93
+22/08/2024,Mexico,Unhealthy for Sensitive Groups,102
+29/08/2024,Mexico,Unhealthy for Sensitive Groups,102
+05/09/2024,Mexico,Moderate,86
+12/09/2024,Mexico,Moderate,94
+19/09/2024,Mexico,Moderate,91
+26/09/2024,Mexico,Unhealthy for Sensitive Groups,106
+03/10/2024,Mexico,Moderate,77
+10/10/2024,Mexico,Unhealthy for Sensitive Groups,121
+17/10/2024,Mexico,Moderate,89
+24/10/2024,Mexico,Moderate,91
+31/10/2024,Mexico,Unhealthy for Sensitive Groups,114
+07/11/2024,Mexico,Unhealthy for Sensitive Groups,105
+14/11/2024,Mexico,Moderate,95
